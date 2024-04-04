@@ -1,7 +1,7 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)]
 
 <h1 align="center">Hi 👋, I'm Bismal Majeed</h1>
-<h3 align="center">ISTQB Certified SQA Engineer with 3.5+ years of experience with a Distinction-Holding Master's Degree. My expertise lies in manual, API, and automation testing, specifically with Agile and Scrum methodologies for SaaS products</h3>
+<h3 align="center">ISTQB Certified SQA Engineer with 4+ years of experience with a Distinction-Holding Master's Degree. My expertise lies in manual, API, and automation testing, specifically with Agile and Scrum methodologies for SaaS products</h3>
 <img align="right" alt="Testing" width="400" src="https://gifdb.com/images/high/denied-test-fail-graphic-art-ufxtb7qspg3i8299.gif">
 
 - 🔭 I’m currently working on **Cypress BDD**
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bismalmajeed](https://medium.com/@bismalmajeed)
 
-- 💬 Ask me about **Cats, Javascript, Cypress, POSTMAN, JMETER, Swagger,Rest Assured.**
+- 💬 Ask me about **Cats, Javascript, Cypress, POSTMAN Automation, JMETER, Swagger,Rest Assured.**
 
 - 📫 How to reach me **bismalmajeed@gmail.com**
 
