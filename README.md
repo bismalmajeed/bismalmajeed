@@ -1,7 +1,7 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)
 
 <h1 align="center">Hi 👋, I'm Bismal Majeed</h1>
-<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & AI Agent Automation | Cowork + Claude Agent SDK + MCP | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
+<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & AI Agent Automation | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Agents-Cowork%20%2B%20Claude-7C3AED?style=for-the-badge" alt="AI Agents" />
