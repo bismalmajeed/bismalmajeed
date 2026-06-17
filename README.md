@@ -1,13 +1,20 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)
 
 <h1 align="center">Hi 👋, I'm Bismal Majeed</h1>
-<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & QA Workflow Automation | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
+<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & AI Agent Automation | Cowork + Claude Agent SDK + MCP | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-Cowork%20%2B%20Claude-7C3AED?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0EA5E9?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Playwright-Python-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Python" />
+  <img src="https://img.shields.io/badge/ISTQB®-CTFL-1E40AF?style=for-the-badge" alt="ISTQB" />
+</p>
 
 <img align="right" alt="Testing" width="400" src="https://gifdb.com/images/high/denied-test-fail-graphic-art-ufxtb7qspg3i8299.gif">
 
-- 🔭 I'm currently working at **Devsloop Technologies** as a **Senior SQA Engineer** — owning the full QA lifecycle, building **Playwright (Python)** automation suites, and leading the team's shift to **AI-augmented testing using Claude's Cowork Agent**
+- 🔭 I'm currently working at **Devsloop Technologies** as a **Senior SQA Engineer** — owning the full QA lifecycle, building **Playwright (Python)** automation suites, and leading the team's shift to **AI-augmented testing**. Designed and deployed a **4-agent SQA automation plugin** (Bug Reporter · Test Case Writer · Staging QA Writer · Slack Bug Monitor) on **Cowork + Claude + MCP** that automates bug ticketing, test-case authoring, and Slack→Asana triage across the team.
 
-- 🌱 I'm currently deepening my expertise in **CI/CD**, **AI-powered QA workflows**, and **Playwright automation**
+- 🌱 I'm currently deepening my expertise in **AI Agents, MCP (Model Context Protocol), Prompt Engineering, CI/CD,** and **Playwright (Python)** for AI-augmented QA workflows
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/bismalmajeed](https://www.behance.net/bismalmajeed)
 
@@ -17,7 +24,7 @@
 
 - 📄 Published in **IEEE** — 3 papers on e-Government, automation testing tools, and programming strategy
 
-- 💬 Ask me about ** Playwright (Python), AI Agents & Cowork Plugins, MCP Connectors, Claude Agent SDK, Prompt Engineering, Cypress BDD, Postman Automation, JMeter, Swagger, REST Assured, AI Testing**
+- 💬 Ask me about **Playwright (Python), AI Agents & Cowork Plugins, MCP Connectors, Claude Agent SDK, Prompt Engineering, Cypress BDD, Postman Automation, JMeter, Swagger, REST Assured, AI Testing**
 
 - 📫 How to reach me: **bismalmajeed@gmail.com**
 
@@ -58,6 +65,26 @@
 - 📖 [**Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project**](https://ieeexplore.ieee.org/document/9693066) — *IEEE*
 - 📖 [**Strategy for Promoting Programming in KPK**](https://ieeexplore.ieee.org/document/8966680) — *IEEE*
 
+---
+
+## 🤖 Featured Project: SQA Assistant — Autonomous AI Agent Plugin
+
+A **4-agent autonomous SQA automation system** I designed, prompt-engineered, and shipped on **Cowork + Claude Agent SDK + MCP connectors**. The agents take over the manual, repeatable parts of the QA workflow — bug ticketing, test-case authoring, staging-QA documentation, and Slack-to-Asana triage — and standardize ticket quality across the team.
+
+| Agent | What it does | Integrates with |
+|-------|--------------|-----------------|
+| 🐞 **Bug Reporter** | Creates structured Asana bug tickets from Jam recordings, Vimeo links, screenshots, or pasted text — with severity inferred from a canonical rubric (Urgent / High / Medium / Low) and a strict html_notes template applied to every ticket | Asana · Jam · Vimeo |
+| ✍️ **Test Case Writer** | Finds the right Notion page automatically and generates 5+ test cases per feature (happy / negative / edge / regression / UI-UX) | Notion |
+| 📋 **Staging QA Writer** | Reads every ticket in the Asana Staging Review (QA) column and delivers a Google Drive doc with per-ticket test cases | Asana · Google Drive |
+| 💬 **Slack Bug Monitor** | Sweeps `#support-x-product`, decides which messages are real issues vs noise, and creates one Asana ticket per user-reported bug | Slack · Asana |
+
+**Why agents and not workflows?** Each agent makes **runtime decisions** (severity inference, source-type detection, support-message triage, Notion page disambiguation) — not a fixed `if-then-else` script. The model picks the next step based on context, which is what makes the system actually useful in the messy real world.
+
+**Stack:** Cowork Plugins · Claude Agent SDK · MCP (Model Context Protocol) · Prompt Engineering · Asana / Notion / Slack / Google Drive / Jam / Vimeo APIs · Python · Playwright
+
+**Impact:** Standardized severity classification and ticket templates across the team · Removed hours of manual SQA overhead per week · Made bug-triage, test-case authoring, and staging-QA documentation reproducible and consistent.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bismalmajeed&label=Profile%20views&color=0e75b6&style=flat" alt="bismalmajeed" /> </p>
 
@@ -80,6 +107,9 @@
 <p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
+  <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic claude" width="40" height="40"/></a>
+  <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="mcp" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -103,3 +133,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bismalmajeed&show_icons=true&locale=en" alt="bismalmajeed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bismalmajeed&" alt="bismalmajeed" /></p>
+
