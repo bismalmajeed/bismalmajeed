@@ -12,7 +12,7 @@
 
 <img align="right" alt="Testing" width="400" src="https://gifdb.com/images/high/denied-test-fail-graphic-art-ufxtb7qspg3i8299.gif">
 
-- 🔭 I'm currently working at **Devsloop Technologies** as a **Senior SQA Engineer** — owning the full QA lifecycle, building **Playwright (Python)** automation suites, and leading the team's shift to **AI-augmented testing**. Designed and deployed a **4-agent SQA automation plugin** (Bug Reporter · Test Case Writer · Staging QA Writer · Slack Bug Monitor) on **Cowork + Claude + MCP** that automates bug ticketing, test-case authoring, and Slack→Asana triage across the team.
+- 🔭 I'm currently working at **Devsloop Technologies** as a **Senior SQA Engineer** owning the full QA lifecycle, building **Playwright (Python)** automation suites, and leading the team's shift to **AI-augmented testing**. Designed and deployed a **4-agent SQA automation plugin** (Bug Reporter · Test Case Writer · Staging QA Writer · Slack Bug Monitor) on **Cowork + Claude + MCP** that automates bug ticketing, test-case authoring, and Slack→Asana triage across the team.
 
 - 🌱 I'm currently deepening my expertise in **AI Agents, MCP (Model Context Protocol), Prompt Engineering, CI/CD,** and **Playwright (Python)** for AI-augmented QA workflows
 
@@ -67,18 +67,16 @@
 
 ---
 
-## 🤖 Featured Project: SQA Assistant — Autonomous AI Agent Plugin
+## 🤖 SQA Assistant Autonomous AI Agent Plugin
 
-A **4-agent autonomous SQA automation system** I designed, prompt-engineered, and shipped on **Cowork + Claude Agent SDK + MCP connectors**. The agents take over the manual, repeatable parts of the QA workflow — bug ticketing, test-case authoring, staging-QA documentation, and Slack-to-Asana triage — and standardize ticket quality across the team.
+A **4-agent autonomous SQA automation system** I designed, prompt-engineered, and shipped on **Cowork + Claude Agent SDK + MCP connectors**. The agents take over the manual, repeatable parts of the QA workflow — bug ticketing, test-case authoring, staging-QA documentation, and Slack-to-Asana triage and standardize ticket quality across the team.
 
 | Agent | What it does | Integrates with |
 |-------|--------------|-----------------|
-| 🐞 **Bug Reporter** | Creates structured Asana bug tickets from Jam recordings, Vimeo links, screenshots, or pasted text — with severity inferred from a canonical rubric (Urgent / High / Medium / Low) and a strict html_notes template applied to every ticket | Asana · Jam · Vimeo |
+| 🐞 **Bug Reporter** | Creates structured Asana bug tickets from Jam recordings, Vimeo links, screenshots, or pasted text with severity inferred from a canonical rubric (Urgent / High / Medium / Low) and a strict html_notes template applied to every ticket | Asana · Jam · Vimeo |
 | ✍️ **Test Case Writer** | Finds the right Notion page automatically and generates 5+ test cases per feature (happy / negative / edge / regression / UI-UX) | Notion |
 | 📋 **Staging QA Writer** | Reads every ticket in the Asana Staging Review (QA) column and delivers a Google Drive doc with per-ticket test cases | Asana · Google Drive |
 | 💬 **Slack Bug Monitor** | Sweeps `#support-x-product`, decides which messages are real issues vs noise, and creates one Asana ticket per user-reported bug | Slack · Asana |
-
-**Why agents and not workflows?** Each agent makes **runtime decisions** (severity inference, source-type detection, support-message triage, Notion page disambiguation) — not a fixed `if-then-else` script. The model picks the next step based on context, which is what makes the system actually useful in the messy real world.
 
 **Stack:** Cowork Plugins · Claude Agent SDK · MCP (Model Context Protocol) · Prompt Engineering · Asana / Notion / Slack / Google Drive / Jam / Vimeo APIs · Python · Playwright
 
