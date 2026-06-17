@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bismalmajeed@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bismal-148458145/](https://www.linkedin.com/in/bismal-148458145/)
+- 📄 Know about my experiences https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145/
 
 - ⚡ Fun fact **I have taught 50+ people and help junior's on linkedIn**
 
