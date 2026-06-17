@@ -17,7 +17,7 @@
 
 - 📄 Published in **IEEE** — 3 papers on e-Government, automation testing tools, and programming strategy
 
-- 💬 Ask me about **Playwright, Cypress BDD, Postman Automation, JMeter, Swagger, REST Assured, AI Testing**
+- 💬 Ask me about ** Playwright (Python), AI Agents & Cowork Plugins, MCP Connectors, Claude Agent SDK, Prompt Engineering, Cypress BDD, Postman Automation, JMeter, Swagger, REST Assured, AI Testing**
 
 - 📫 How to reach me: **bismalmajeed@gmail.com**
 
