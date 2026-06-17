@@ -29,12 +29,12 @@
 
 ## 🏢 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| **Senior SQA Engineer** | Devsloop Technologies (New York, US) | Nov 2024 – Present |
-| **Senior Software QA Engineer** | NETSOL Technologies Pakistan | May 2022 – Nov 2024 |
-| **SQA Engineer** | Dubizzle Labs (EMPG) | Mar 2022 – Apr 2022 |
-| **SQA Engineer** | Visionary Computer Solutions | Dec 2019 – Feb 2022 |
+| Role | Company | Duration | Mode |
+|------|---------|----------|------|
+| **Senior SQA Engineer** | Devsloop Technologies (New York, US) | Nov 2024 – Present | 🌐 Remote (Client: US) |
+| **Senior Software QA Engineer** | NETSOL Technologies Pakistan | May 2022 – Nov 2024 | 🏠 Hybrid |
+| **SQA Engineer** | Dubizzle Labs (EMPG) | Mar 2022 – Apr 2022 | 🏠 Hybrid |
+| **SQA Engineer** | Visionary Computer Solutions | Dec 2019 – Feb 2022 | 🏢 On-site |
 
 ---
 
@@ -103,3 +103,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bismalmajeed&show_icons=true&locale=en&layout=compact" alt="bismalmajeed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bismalmajeed&show_icons=true&locale=en" alt="bismalmajeed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bismalmajeed&" alt="bismalmajeed" /></p>
