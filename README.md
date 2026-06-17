@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **bismalmajeed@gmail.com**
 
-- 🔗 LinkedIn: [bismal-majeed-istqb®-ctfl-148458145](https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145)
+- 🔗 LinkedIn: [[bismal-majeed-istqb®-ctfl-148458145](https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145)](https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145/)
 
 - ⚡ Fun fact: **Cum Laude graduate (Top 5%) | IEEE author | Sports medal winner at cross-company competition**
 
