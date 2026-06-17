@@ -53,11 +53,12 @@
 
 ---
 
-## 📚 IEEE Publications
+## 📚 Publications
 
-- 📖 *E-Government in Developed and Developing Countries: A Systematic Literature Review* (IEEE, 2023)
-- 📖 *Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project* (IEEE, 2022)
-- 📖 *Strategy for Promoting Programming in KPK* (IEEE, 2022)
+- 📖 [**Requirements Change Management (RCM) Tool for Pakistan Software Industry**](https://pjosr.com/index.php/pjosr/article/view/1018) — *Pakistan Journal of Scientific Research*
+- 📖 [**E-Government in Developed and Developing Countries: A Systematic Literature Review**](https://ieeexplore.ieee.org/document/8941963) — *IEEE*
+- 📖 [**Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project**](https://ieeexplore.ieee.org/document/9693066) — *IEEE*
+- 📖 [**Strategy for Promoting Programming in KPK**](https://ieeexplore.ieee.org/document/8966680) — *IEEE*
 
 ---
 
