@@ -1,7 +1,7 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)
 
 <h1 align="center">Hi 👋, I'm Bismal Majeed</h1>
-<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & QA Workflow Automation | QA Team Lead | SaaS & FinTech | Ex-NETSOL/EMPG | IEEE Published | SelectorsHub Ambassador</h3>
+<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & QA Workflow Automation | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
 
 <img align="right" alt="Testing" width="400" src="https://gifdb.com/images/high/denied-test-fail-graphic-art-ufxtb7qspg3i8299.gif">
 
@@ -41,17 +41,15 @@
 ## 🏅 Certifications & Awards
 
 - ✅ ISTQB® CTFL Certified
+- ✅ Claude Courses
 - ✅ Agile Testing
 - ✅ API Testing using Postman
 - ✅ SQL for Testers
 - ✅ AI for Software Testers
-- ✅ HTML, CSS, and JavaScript: Building the Web
 - 🏆 Certificate of Distinction – MS CS (2nd Position)
 - 🏆 Certificate of Distinction for Exemplifying CORE VALUE of FCCU
 - 🏆 Cum Laude Award (Academia Honors)
 - 🏆 Certificate of Appreciation for Outstanding Performance
-
----
 
 ## 📚 Publications
 
@@ -60,7 +58,6 @@
 - 📖 [**Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project**](https://ieeexplore.ieee.org/document/9693066) — *IEEE*
 - 📖 [**Strategy for Promoting Programming in KPK**](https://ieeexplore.ieee.org/document/8966680) — *IEEE*
 
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bismalmajeed&label=Profile%20views&color=0e75b6&style=flat" alt="bismalmajeed" /> </p>
 
