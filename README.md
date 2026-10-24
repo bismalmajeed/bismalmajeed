@@ -1,51 +1,62 @@
-![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)
-
 <h1 align="center">Hi 👋, I'm Bismal Majeed</h1>
-<h3 align="center">ISTQB® CTFL Certified Senior SQA Engineer with 6+ years of experience | MS Computer Science – Cum Laude | Playwright & AI Agent Automation | QA Team Lead | Ex-NETSOL & EMPG | IEEE Published | SelectorsHub Ambassador</h3>
+<h3 align="center">Senior SQA Engineer · Playwright (Python) · AI-Agent Test Automation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-Cowork%20%2B%20Claude-7C3AED?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0EA5E9?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Playwright-Python-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Python" />
-  <img src="https://img.shields.io/badge/ISTQB®-CTFL-1E40AF?style=for-the-badge" alt="ISTQB" />
+ISTQB® CTFL Certified · 6+ years in QA · QA Team Lead · MS Computer Science (Cum Laude) · IEEE Published · SelectorsHub Ambassador
 </p>
 
-<img align="right" alt="Testing" width="400" src="https://gifdb.com/images/high/denied-test-fail-graphic-art-ufxtb7qspg3i8299.gif">
-
-- 🔭 I'm currently working at **Devsloop Technologies** as a **Senior SQA Engineer** owning the full QA lifecycle, building **Playwright (Python)** automation suites, and leading the team's shift to **AI-augmented testing**. Designed and deployed a **4-agent SQA automation plugin** (Bug Reporter · Test Case Writer · Staging QA Writer · Slack Bug Monitor) on **Cowork + Claude + MCP** that automates bug ticketing, test-case authoring, and Slack→Asana triage across the team.
-
-- 🌱 I'm currently deepening my expertise in **AI Agents, MCP (Model Context Protocol), Prompt Engineering, CI/CD,** and **Playwright (Python)** for AI-augmented QA workflows
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/bismalmajeed](https://www.behance.net/bismalmajeed)
-
-- 📝 I regularly write articles on [https://medium.com/@bismalmajeed](https://medium.com/@bismalmajeed)
-
-- 🏆 **20k+ LinkedIn followers** | Helped **50+ people** grow in QA | **SelectorsHub Ambassador**
-
-- 📄 Published in **IEEE** — 3 papers on e-Government, automation testing tools, and programming strategy
-
-- 💬 Ask me about **Playwright (Python), AI Agents & Cowork Plugins, MCP Connectors, Claude Agent SDK, Prompt Engineering, Cypress BDD, Postman Automation, JMeter, Swagger, REST Assured, AI Testing**
-
-- 📫 How to reach me: **bismalmajeed@gmail.com**
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145/
-
-- ⚡ Fun fact: **Cum Laude graduate (Top 5%) | IEEE author | Sports medal winner at cross-company competition**
+<p align="center">
+<a href="https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145/"><img src="https://img.shields.io/badge/LinkedIn-20k%2B%20followers-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@bismalmajeed"><img src="https://img.shields.io/badge/Medium-Articles-000000?logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://www.behance.net/bismalmajeed"><img src="https://img.shields.io/badge/Behance-Projects-1769FF?logo=behance&logoColor=white" alt="Behance"></a>
+<a href="mailto:bismalmajeed@gmail.com"><img src="https://img.shields.io/badge/Email-bismalmajeed%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
+
+## 🔭 What I do
+
+I own the full QA lifecycle at **Devsloop Technologies** (remote, US client), build **Playwright (Python)** automation suites, and lead my team's shift to **AI-augmented testing**.
+
+**Currently deepening:** AI Agents · MCP (Model Context Protocol) · Prompt Engineering · CI/CD · Playwright (Python)
+
+## 🤖 Featured: SQA Assistant, an autonomous 4-agent QA plugin
+
+Designed, prompt-engineered and shipped on **Cowork + Claude Agent SDK + MCP**. It takes over the repeatable parts of the QA workflow and standardizes ticket quality across the team.
+
+| Agent | What it does | Integrates with |
+|---|---|---|
+| 🐞 **Bug Reporter** | Builds structured Asana bug tickets from Jam recordings, Vimeo links, screenshots or pasted text. Severity (Urgent / High / Medium / Low) comes from a canonical rubric, and every ticket follows a strict template. | Asana · Jam · Vimeo |
+| ✍️ **Test Case Writer** | Finds the right Notion page and writes 5+ test cases per feature (happy / negative / edge / regression / UI-UX). | Notion |
+| 📋 **Staging QA Writer** | Reads every ticket in the Staging Review (QA) column and delivers a Google Drive doc with per-ticket test cases. | Asana · Google Drive |
+| 💬 **Slack Bug Monitor** | Sweeps `#support-x-product`, separates real issues from noise, and files one Asana ticket per user-reported bug. | Slack · Asana |
+
+**Impact:** consistent severity classification and ticket templates · hours of manual SQA overhead removed each week · reproducible bug triage, test-case authoring and staging documentation.
+
+## 🛠️ Tech & tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?logo=anthropic&logoColor=white)
+
+**Ask me about:** Playwright (Python) · AI Agents & Cowork Plugins · MCP Connectors · Claude Agent SDK · Prompt Engineering · Cypress BDD · Postman Automation · JMeter · Swagger · REST Assured · AI Testing
 
 ## 🏢 Experience
 
 | Role | Company | Duration | Mode |
-|------|---------|----------|------|
-| **Senior SQA Engineer** | Devsloop Technologies (New York, US) | Nov 2024 – Present | 🌐 Remote (Client: US) |
-| **Senior Software QA Engineer** | NETSOL Technologies Pakistan | May 2022 – Nov 2024 | 🏠 Hybrid |
-| **SQA Engineer** | Dubizzle Labs (EMPG) | Mar 2022 – Apr 2022 | 🏠 Hybrid |
-| **SQA Engineer** | Visionary Computer Solutions | Dec 2019 – Feb 2022 | 🏢 On-site |
+|---|---|---|---|
+| **Senior SQA Engineer** | Devsloop Technologies (New York, US) | Nov 2024 – Present | 🌐 Remote (US client) |
+| Senior Software QA Engineer | NETSOL Technologies Pakistan | May 2022 – Nov 2024 | 🏠 Hybrid |
+| SQA Engineer | Dubizzle Labs (EMPG) | Mar 2022 – Apr 2022 | 🏠 Hybrid |
+| SQA Engineer | Visionary Computer Solutions | Dec 2019 – Feb 2022 | 🏢 On-site |
 
----
-
-## 🏅 Certifications & Awards
+<details>
+<summary><b>🏅 Certifications & Awards</b></summary>
 
 - ✅ ISTQB® CTFL Certified
 - ✅ Claude Courses
@@ -53,82 +64,36 @@
 - ✅ API Testing using Postman
 - ✅ SQL for Testers
 - ✅ AI for Software Testers
-- 🏆 Certificate of Distinction – MS CS (2nd Position)
+- 🏆 Certificate of Distinction, MS CS (2nd Position)
 - 🏆 Certificate of Distinction for Exemplifying CORE VALUE of FCCU
-- 🏆 Cum Laude Award (Academia Honors)
+- 🏆 Cum Laude Award (Academia Honors, top 5%)
 - 🏆 Certificate of Appreciation for Outstanding Performance
 
-## 📚 Publications
+</details>
 
-- 📖 [**Requirements Change Management (RCM) Tool for Pakistan Software Industry**](https://pjosr.com/index.php/pjosr/article/view/1018) — *Pakistan Journal of Scientific Research*
-- 📖 [**E-Government in Developed and Developing Countries: A Systematic Literature Review**](https://ieeexplore.ieee.org/document/8941963) — *IEEE*
-- 📖 [**Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project**](https://ieeexplore.ieee.org/document/9693066) — *IEEE*
-- 📖 [**Strategy for Promoting Programming in KPK**](https://ieeexplore.ieee.org/document/8966680) — *IEEE*
+<details>
+<summary><b>📚 Publications (3 IEEE papers)</b></summary>
 
----
+- [*Comparative Study of Open Source Automation Testing Tools: Selenium, Katalon Studio & Test Project*](https://ieeexplore.ieee.org/document/9693066): IEEE
+- [*E-Government in Developed and Developing Countries: A Systematic Literature Review*](https://ieeexplore.ieee.org/document/8941963): IEEE
+- [*Strategy for Promoting Programming in KPK*](https://ieeexplore.ieee.org/document/8966680): IEEE
+- [*Requirements Change Management (RCM) Tool for Pakistan Software Industry*](https://pjosr.com/index.php/pjosr/article/view/1018): Pakistan Journal of Scientific Research
 
-## 🤖 SQA Assistant Autonomous AI Agent Plugin
+</details>
 
-A **4-agent autonomous SQA automation system** I designed, prompt-engineered, and shipped on **Cowork + Claude Agent SDK + MCP connectors**. The agents take over the manual, repeatable parts of the QA workflow — bug ticketing, test-case authoring, staging-QA documentation, and Slack-to-Asana triage and standardize ticket quality across the team.
+## 🌍 Community
 
-| Agent | What it does | Integrates with |
-|-------|--------------|-----------------|
-| 🐞 **Bug Reporter** | Creates structured Asana bug tickets from Jam recordings, Vimeo links, screenshots, or pasted text with severity inferred from a canonical rubric (Urgent / High / Medium / Low) and a strict html_notes template applied to every ticket | Asana · Jam · Vimeo |
-| ✍️ **Test Case Writer** | Finds the right Notion page automatically and generates 5+ test cases per feature (happy / negative / edge / regression / UI-UX) | Notion |
-| 📋 **Staging QA Writer** | Reads every ticket in the Asana Staging Review (QA) column and delivers a Google Drive doc with per-ticket test cases | Asana · Google Drive |
-| 💬 **Slack Bug Monitor** | Sweeps `#support-x-product`, decides which messages are real issues vs noise, and creates one Asana ticket per user-reported bug | Slack · Asana |
+20k+ LinkedIn followers · helped 50+ people grow in QA · SelectorsHub Ambassador · I write regularly on [Medium](https://medium.com/@bismalmajeed)
 
-**Stack:** Cowork Plugins · Claude Agent SDK · MCP (Model Context Protocol) · Prompt Engineering · Asana / Notion / Slack / Google Drive / Jam / Vimeo APIs · Python · Playwright
+## 📊 GitHub activity
 
-**Impact:** Standardized severity classification and ticket templates across the team · Removed hours of manual SQA overhead per week · Made bug-triage, test-case authoring, and staging-QA documentation reproducible and consistent.
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bismalmajeed&label=Profile%20views&color=0e75b6&style=flat" alt="bismalmajeed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismalmajeed" alt="bismalmajeed" /></a> </p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bismalmajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bismal majeed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/bismalmajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bismal majeed" height="30" width="40" /></a>
-<a href="https://www.behance.net/bismalmajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@bismalmajeed" height="30" width="40" /></a>
-<a href="https://medium.com/@bismalmajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bismalmajeed" height="30" width="40" /></a>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bismalmajeed&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismalmajeed&layout=compact&hide_border=true" alt="Top languages">
 </p>
 
----
+## 📫 Let's connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a>
-  <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="anthropic claude" width="40" height="40"/></a>
-  <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="mcp" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
+Open to talking about QA strategy, Playwright, and AI-agent testing workflows. Reach me at **bismalmajeed@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/bismal-majeed-istqb%C2%AE-ctfl-148458145/).
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bismalmajeed&show_icons=true&locale=en&layout=compact" alt="bismalmajeed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bismalmajeed&show_icons=true&locale=en" alt="bismalmajeed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bismalmajeed&" alt="bismalmajeed" /></p>
-
+⚡ *Fun fact: I won a sports medal at a cross-company competition.*
