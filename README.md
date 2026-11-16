@@ -18,7 +18,7 @@ ISTQB® CTFL Certified · 6+ years in QA · QA Team Lead · MS Computer Science 
 
 I own the full QA lifecycle at **Devsloop Technologies** (remote, US client), build **Playwright (Python)** automation suites, and lead my team's shift to **AI-augmented testing**.
 
-**Currently deepening:** AI Agents · MCP (Model Context Protocol) · Prompt Engineering · CI/CD · Playwright (Python)
+**Currently deepening:** AI Agents · MCP (Model Context Protocol) · Prompt Engineering · CI/CD · Playwright (Python) · Promptfoo
 
 ## 🤖 Featured: SQA Assistant, an autonomous 4-agent QA plugin
 
@@ -43,8 +43,9 @@ Designed, prompt-engineered and shipped on **Cowork + Claude Agent SDK + MCP**. 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?logo=anthropic&logoColor=white)
+![Promptfoo](https://img.shields.io/badge/Promptfoo-4B32C3?logo=data:image/svg+xml;base64,&logoColor=white)
 
-**Ask me about:** Playwright (Python) · AI Agents & Cowork Plugins · MCP Connectors · Claude Agent SDK · Prompt Engineering · Cypress BDD · Postman Automation · JMeter · Swagger · REST Assured · AI Testing
+**Ask me about:** Playwright (Python) · AI Agents & Cowork Plugins · MCP Connectors · Claude Agent SDK · Prompt Engineering · Cypress BDD · Postman Automation · JMeter · Swagger · REST Assured · AI Testing · Promptfoo
 
 ## 🏢 Experience
 
